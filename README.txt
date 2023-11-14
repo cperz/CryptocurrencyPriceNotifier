@@ -10,5 +10,5 @@ Packages needed to install: Twilio
 			
 After installing Twilio, sign up for a free trial Twilio account in order to use your 
 own phone number, account sid, and auth token to use in the code.
-In order to get price alters of different cryptocurrencies, get the API of the 
+In order to get price alerts of different cryptocurrencies, get the API of the 
 cryptocurrency of choice and add to the code.
